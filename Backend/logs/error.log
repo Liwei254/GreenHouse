@@ -1,0 +1,20 @@
+2025-07-10 14:46:26 [[31merror[39m]: Error during registration: User validation failed: username: Path `username` is required.
+2025-07-10 14:47:10 [[31merror[39m]: Error during registration: User validation failed: username: Path `username` is required.
+2025-07-10 21:39:16 [[31merror[39m]: Error during registration: E11000 duplicate key error collection: GREENHOUSE.users index: username_1 dup key: { username: "james" }
+2025-07-10 21:41:12 [[31merror[39m]: Error during registration: E11000 duplicate key error collection: GREENHOUSE.users index: username_1 dup key: { username: "james" }
+2025-07-10 22:02:19 [[31merror[39m]: SyntaxError: Expected ',' or '}' after property value in JSON at position 86
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\otipa\Desktop\Group\backend\node_modules\body-parser\lib\types\json.js:77:19)
+    at C:\Users\otipa\Desktop\Group\backend\node_modules\body-parser\lib\read.js:123:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\otipa\Desktop\Group\backend\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\otipa\Desktop\Group\backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\otipa\Desktop\Group\backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-07-10 22:02:31 [[31merror[39m]: Error during registration: E11000 duplicate key error collection: GREENHOUSE.users index: username_1 dup key: { username: "james" }
+2025-07-10 22:15:39 [[31merror[39m]: Error during registration: E11000 duplicate key error collection: GREENHOUSE.users index: username_1 dup key: { username: "james" }
+2025-07-10 22:16:02 [[31merror[39m]: Error during registration: E11000 duplicate key error collection: GREENHOUSE.users index: username_1 dup key: { username: "james" }
+2025-07-10 22:17:41 [[31merror[39m]: Error during registration: E11000 duplicate key error collection: GREENHOUSE.users index: username_1 dup key: { username: "james" }
+2025-07-10 22:26:40 [[31merror[39m]: Error during registration: E11000 duplicate key error collection: GREENHOUSE.users index: username_1 dup key: { username: "james" }

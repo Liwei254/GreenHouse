@@ -1,0 +1,236 @@
+2025-07-09 15:10:53 [[32minfo[39m]: Server running on port 5000
+2025-07-09 15:10:54 [[32minfo[39m]: Connected to MQTT broker
+2025-07-09 15:16:26 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 14:40:18 [[32minfo[39m]: Server running on port 5000
+2025-07-10 14:40:19 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 14:44:13 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 14:46:14 [[32minfo[39m]: POST /api/register
+2025-07-10 14:46:24 [[32minfo[39m]: POST /api/auth/register
+2025-07-10 14:46:26 [[31merror[39m]: Error during registration: User validation failed: username: Path `username` is required.
+2025-07-10 14:46:47 [[32minfo[39m]: Server running on port 5000
+2025-07-10 14:46:48 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 14:47:09 [[32minfo[39m]: POST /api/auth/register
+2025-07-10 14:47:10 [[31merror[39m]: Error during registration: User validation failed: username: Path `username` is required.
+2025-07-10 14:50:11 [[32minfo[39m]: POST /api/register
+2025-07-10 14:56:09 [[32minfo[39m]: POST /api/auth/register
+2025-07-10 14:56:59 [[32minfo[39m]: POST /api/auth/login
+2025-07-10 14:57:01 [[32minfo[39m]: GET /api/sensors/device1/latest
+2025-07-10 14:57:01 [[32minfo[39m]: GET /api/sensors/device1/latest
+2025-07-10 14:58:26 [[32minfo[39m]: POST /api/auth/login
+2025-07-10 14:58:34 [[32minfo[39m]: POST /api/auth/register
+2025-07-10 14:58:44 [[32minfo[39m]: POST /api/auth/login
+2025-07-10 14:58:45 [[32minfo[39m]: GET /api/sensors/device1/latest
+2025-07-10 14:58:45 [[32minfo[39m]: GET /api/sensors/device1/latest
+2025-07-10 14:59:01 [[32minfo[39m]: GET /api/actuators/device1
+2025-07-10 14:59:02 [[32minfo[39m]: GET /api/actuators/device1
+2025-07-10 14:59:03 [[32minfo[39m]: GET /api/devices
+2025-07-10 14:59:03 [[32minfo[39m]: GET /api/devices
+2025-07-10 15:01:05 [[32minfo[39m]: POST /api/auth/login
+2025-07-10 15:01:08 [[32minfo[39m]: POST /api/auth/register
+2025-07-10 15:01:13 [[32minfo[39m]: POST /api/auth/login
+2025-07-10 15:01:13 [[32minfo[39m]: GET /api/sensors/device1/latest
+2025-07-10 15:01:13 [[32minfo[39m]: GET /api/sensors/device1/latest
+2025-07-10 15:03:14 [[32minfo[39m]: GET /api/actuators/device1
+2025-07-10 15:03:15 [[32minfo[39m]: GET /api/actuators/device1
+2025-07-10 15:03:16 [[32minfo[39m]: GET /api/devices
+2025-07-10 15:03:16 [[32minfo[39m]: GET /api/devices
+2025-07-10 15:03:19 [[32minfo[39m]: GET /api/sensors/device1/latest
+2025-07-10 15:03:19 [[32minfo[39m]: GET /api/sensors/device1/latest
+2025-07-10 15:06:20 [[32minfo[39m]: GET /api/actuators/device1
+2025-07-10 15:06:21 [[32minfo[39m]: GET /api/actuators/device1
+2025-07-10 15:11:45 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 15:14:30 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 16:49:38 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 16:56:37 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 16:58:43 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:00:46 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:01:49 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:08:52 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:19:02 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:20:04 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:36:38 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:37:41 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:38:43 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:39:45 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:40:52 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:41:54 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:43:02 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:44:05 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:45:07 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:46:14 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:47:21 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:48:24 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:51:32 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:52:34 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:53:36 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:54:38 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:55:45 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:56:47 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 17:57:53 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:16:46 [[32minfo[39m]: Server running on port 5000
+2025-07-10 21:16:46 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:17:48 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:18:50 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:19:53 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:20:56 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:21:58 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:23:01 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:24:58 [[32minfo[39m]: Server running on port 5000
+2025-07-10 21:24:58 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:25:41 [[32minfo[39m]: GET /api/sensors/device1/latest
+2025-07-10 21:25:41 [[32minfo[39m]: GET /api/sensors/device1/latest
+2025-07-10 21:26:00 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:26:22 [[32minfo[39m]: POST /api/auth/login
+2025-07-10 21:27:03 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:28:05 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:29:06 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:30:08 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:31:10 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:32:12 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:33:15 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:34:18 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:35:33 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:36:36 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:37:38 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:38:36 [[32minfo[39m]: POST /api/auth/login
+2025-07-10 21:38:40 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:39:14 [[32minfo[39m]: POST /api/auth/register
+2025-07-10 21:39:16 [[31merror[39m]: Error during registration: E11000 duplicate key error collection: GREENHOUSE.users index: username_1 dup key: { username: "james" }
+2025-07-10 21:39:38 [[32minfo[39m]: POST /api/auth/login
+2025-07-10 21:39:42 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:39:56 [[32minfo[39m]: POST /api/auth/login
+2025-07-10 21:40:46 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:40:56 [[32minfo[39m]: GET /api/sensors/device1/latest
+2025-07-10 21:40:56 [[32minfo[39m]: GET /api/sensors/device1/latest
+2025-07-10 21:41:11 [[32minfo[39m]: POST /api/auth/register
+2025-07-10 21:41:12 [[31merror[39m]: Error during registration: E11000 duplicate key error collection: GREENHOUSE.users index: username_1 dup key: { username: "james" }
+2025-07-10 21:41:49 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:42:50 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:43:52 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:44:54 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:46:19 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:47:23 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:48:25 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:49:40 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:50:42 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:51:59 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:53:01 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:54:17 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:55:18 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:56:21 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:57:22 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:58:24 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 21:59:26 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:00:28 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:01:30 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:02:19 [[31merror[39m]: SyntaxError: Expected ',' or '}' after property value in JSON at position 86
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\otipa\Desktop\Group\backend\node_modules\body-parser\lib\types\json.js:77:19)
+    at C:\Users\otipa\Desktop\Group\backend\node_modules\body-parser\lib\read.js:123:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\otipa\Desktop\Group\backend\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\otipa\Desktop\Group\backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\otipa\Desktop\Group\backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-07-10 22:02:28 [[32minfo[39m]: POST /api/auth/register
+2025-07-10 22:02:31 [[31merror[39m]: Error during registration: E11000 duplicate key error collection: GREENHOUSE.users index: username_1 dup key: { username: "james" }
+2025-07-10 22:02:33 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:03:35 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:04:37 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:05:39 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:06:41 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:07:56 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:08:58 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:10:00 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:11:02 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:12:04 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:13:06 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:14:08 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:15:10 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:15:35 [[32minfo[39m]: POST /api/auth/register
+2025-07-10 22:15:39 [[31merror[39m]: Error during registration: E11000 duplicate key error collection: GREENHOUSE.users index: username_1 dup key: { username: "james" }
+2025-07-10 22:16:01 [[32minfo[39m]: POST /api/auth/register
+2025-07-10 22:16:02 [[31merror[39m]: Error during registration: E11000 duplicate key error collection: GREENHOUSE.users index: username_1 dup key: { username: "james" }
+2025-07-10 22:16:27 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:17:38 [[32minfo[39m]: POST /api/auth/register
+2025-07-10 22:17:41 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:17:41 [[31merror[39m]: Error during registration: E11000 duplicate key error collection: GREENHOUSE.users index: username_1 dup key: { username: "james" }
+2025-07-10 22:18:43 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:19:58 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:21:00 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:22:02 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:23:04 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:26:22 [[32minfo[39m]: Server running on port 5000
+2025-07-10 22:26:36 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:26:40 [[32minfo[39m]: POST /api/auth/register
+2025-07-10 22:26:40 [[31merror[39m]: Error during registration: E11000 duplicate key error collection: GREENHOUSE.users index: username_1 dup key: { username: "james" }
+2025-07-10 22:27:38 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:28:11 [[32minfo[39m]: POST /api/auth/register
+2025-07-10 22:28:40 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:29:55 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:30:37 [[32minfo[39m]: POST /api/auth/register
+2025-07-10 22:30:58 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:32:00 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:33:01 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:34:05 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:35:08 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:36:10 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:37:12 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:38:16 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:39:19 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:40:21 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:41:32 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:42:37 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:43:39 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:44:41 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:45:44 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:46:46 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:47:49 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:48:51 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:49:53 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:50:55 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:51:57 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:52:59 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:54:02 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:55:04 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:56:06 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:58:08 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 22:59:10 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:00:12 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:01:14 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:02:16 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:05:18 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:07:20 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:10:23 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:12:25 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:13:27 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:14:29 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:15:31 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:16:33 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:17:36 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:19:39 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:20:41 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:21:43 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:23:45 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:24:47 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:25:49 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:26:51 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:27:53 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:28:56 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:30:00 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:33:04 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:34:07 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:35:09 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:36:11 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:37:14 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:38:17 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:39:19 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:40:21 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:41:23 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 23:42:28 [[32minfo[39m]: Connected to MQTT broker
+2025-07-11 09:14:22 [[32minfo[39m]: Server running on port 5000
+2025-07-11 09:37:14 [[32minfo[39m]: Server running on port 5000
+2025-07-11 09:37:18 [[32minfo[39m]: Connected to MQTT broker
+2025-07-11 09:43:50 [[32minfo[39m]: Connected to MQTT broker
