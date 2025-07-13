@@ -299,3 +299,15 @@
 2025-07-11 11:33:14 [[32minfo[39m]: GET /api/actuators/device1
 2025-07-11 11:33:22 [[32minfo[39m]: GET /api/devices
 2025-07-11 11:33:22 [[32minfo[39m]: GET /api/devices
+2025-07-11 13:11:48 [[32minfo[39m]: Server running on port 5000
+2025-07-11 13:11:55 [[32minfo[39m]: Connected to MQTT broker
+2025-07-11 13:17:57 [[32minfo[39m]: GET /api/devices
+2025-07-11 13:17:57 [[32minfo[39m]: GET /api/devices
+2025-07-11 13:18:04 [[32minfo[39m]: GET /api/actuators/device1
+2025-07-11 13:18:05 [[32minfo[39m]: GET /api/actuators/device1
+2025-07-11 13:18:07 [[32minfo[39m]: GET /api/devices
+2025-07-11 13:18:07 [[32minfo[39m]: GET /api/devices
+2025-07-11 13:19:29 [[32minfo[39m]: GET /api/actuators/device1
+2025-07-11 13:19:29 [[32minfo[39m]: GET /api/actuators/device1
+2025-07-11 13:32:35 [[32minfo[39m]: GET /api/devices
+2025-07-11 13:32:35 [[32minfo[39m]: GET /api/devices
