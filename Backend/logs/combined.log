@@ -311,3 +311,25 @@
 2025-07-11 13:19:29 [[32minfo[39m]: GET /api/actuators/device1
 2025-07-11 13:32:35 [[32minfo[39m]: GET /api/devices
 2025-07-11 13:32:35 [[32minfo[39m]: GET /api/devices
+2025-07-14 20:45:06 [[32minfo[39m]: Server running on port 5000
+2025-07-14 20:45:12 [[32minfo[39m]: Connected to MQTT broker
+2025-07-14 20:48:38 [[32minfo[39m]: GET /api/devices
+2025-07-14 20:48:38 [[32minfo[39m]: GET /api/devices
+2025-07-14 20:48:45 [[32minfo[39m]: GET /api/actuators/device1
+2025-07-14 20:48:46 [[32minfo[39m]: GET /api/actuators/device1
+2025-07-14 20:50:33 [[32minfo[39m]: POST /api/auth/register
+2025-07-14 20:51:28 [[32minfo[39m]: POST /api/auth/login
+2025-07-14 22:22:38 [[32minfo[39m]: Connected to MQTT broker
+2025-07-14 22:41:38 [[32minfo[39m]: Connected to MQTT broker
+2025-07-14 22:47:13 [[32minfo[39m]: Connected to MQTT broker
+2025-07-15 07:22:02 [[32minfo[39m]: Connected to MQTT broker
+2025-07-15 07:52:23 [[32minfo[39m]: Connected to MQTT broker
+2025-07-15 08:47:33 [[32minfo[39m]: Connected to MQTT broker
+2025-07-15 09:02:56 [[32minfo[39m]: Connected to MQTT broker
+2025-07-15 09:10:09 [[32minfo[39m]: Connected to MQTT broker
+2025-07-15 09:15:04 [[32minfo[39m]: Connected to MQTT broker
+2025-07-15 09:25:35 [[32minfo[39m]: Connected to MQTT broker
+2025-07-15 09:29:37 [[32minfo[39m]: Connected to MQTT broker
+2025-07-15 09:39:58 [[32minfo[39m]: Connected to MQTT broker
+2025-07-15 09:49:04 [[32minfo[39m]: Connected to MQTT broker
+2025-07-15 10:09:42 [[32minfo[39m]: Connected to MQTT broker
