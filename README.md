@@ -127,31 +127,6 @@ This project enables automated control and monitoring of greenhouse devices such
 * `/health` - Check server and database health status.
 
 ---
-
-## Project Structure
-
-```
-/backend
-  /config
-    db.js            # MongoDB connection
-  /middlewares
-    errorHandler.js  # Error handling middleware
-  /models
-    Actuator.js      # Actuator data model
-    Sensor.js        # Sensor data model (not shown)
-  /routes
-    actuatorRoutes.js
-    sensorRoutes.js
-    alertRoutes.js
-    authRoutes.js
-    deviceRoutes.js
-    iotRoutes.js
-  /utils
-    logger.js        # Custom logging
-  app.js             # Express app initialization
-/frontend            # React frontend source
-```
-
 ---
 
 ## Contributing
