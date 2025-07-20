@@ -1,7 +1,3 @@
-Sure! Here's a professional and clear `README.md` draft for your **Greenhouse Automation** project based on the provided code:
-
----
-
 # Greenhouse Automation
 
 An IoT-enabled greenhouse automation system for remote monitoring and control of environmental conditions using sensors and actuators. Built with a Node.js backend (Express, MongoDB) and a React frontend.
@@ -167,7 +163,3 @@ Contributions are welcome! Please open issues or pull requests for bug fixes, fe
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-If you want me to add a section on **environment variables**, **testing**, or **deployment** instructions, just ask! Would you like that?
