@@ -17,7 +17,7 @@ const RegisterPage = () => {
     setError('');
     setSuccess('');
     try {
-      const response = await axios.post(`${process.env.REACT_APP_API_BASE_URL}/auth/register`, {
+      await axios.post(`${process.env.REACT_APP_API_BASE_URL}/auth/register`, {
         username,
         email,
         phone,

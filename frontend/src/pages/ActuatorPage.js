@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useCallback } from 'react';
 import { Typography, Grid, Card, CardContent, Switch, FormControlLabel, Button, Box } from '@mui/material';
 import RefreshIcon from '@mui/icons-material/Refresh';
 import axios from 'axios';
@@ -6,9 +6,9 @@ import axios from 'axios';
 const ActuatorPage = () => {
   const [actuatorState, setActuatorState] = useState(null);
   const [loading, setLoading] = useState(true);
-  const [deviceId, setDeviceId] = useState('device1'); // Placeholder deviceId
+  const deviceId = 'device1'; // Placeholder deviceId
 
-  const fetchActuatorState = async () => {
+  const fetchActuatorState = useCallback(async () => {
     setLoading(true);
     try {
       const response = await axios.get(`http://localhost:5000/api/actuators/${deviceId}`);
@@ -18,11 +18,11 @@ const ActuatorPage = () => {
     } finally {
       setLoading(false);
     }
-  };
+  }, [deviceId]);
 
   useEffect(() => {
     fetchActuatorState();
-  }, [deviceId]);
+  }, [fetchActuatorState]);
 
   const handleToggle = (field) => async (event) => {
     const newValue = event.target.checked;

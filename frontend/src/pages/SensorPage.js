@@ -1,6 +1,5 @@
-import React, { useEffect, useState } from 'react';
-import { Typography, Paper, Grid, Card, CardContent, Button, Box } from '@mui/material';
-import RefreshIcon from '@mui/icons-material/Refresh';
+import React, { useState } from 'react';
+import { Typography, Grid, Card, CardContent, Button, Box } from '@mui/material';
 import axios from 'axios';
 
 const SensorPage = () => {
@@ -10,7 +9,6 @@ const SensorPage = () => {
   const fetchSensorData = async () => {
     setLoading(true);
     try {
-      const deviceId = 'device1'; // Placeholder deviceId
       const response = await axios.get(`http://192.168.0.105:5000/api/sensor-data`);
       setSensorData(response.data);
     } catch (error) {
